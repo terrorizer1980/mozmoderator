@@ -139,7 +139,7 @@ django==3.1.12 \
     #   django-jinja
     #   django-ses
     #   mozilla-django-oidc
-future==0.18.2 \
+future==0.18.3 \
     --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d
     # via django-ses
 gunicorn==20.1.0 \
