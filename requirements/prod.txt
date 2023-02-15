@@ -129,7 +129,7 @@ django-ses==2.0.0 \
 django-uuslug==1.2.0 \
     --hash=sha256:bf0872618acc61f7ace65b96ae71d63f347595c8b990942834f1ba9448af19ec
     # via -r requirements/prod.in
-django==3.1.12 \
+django==3.2.18 \
     --hash=sha256:a523d62b7ab2908f551dabc32b99017a86aa7784e32b761708e52be3dce6d35d \
     --hash=sha256:dc41bf07357f1f4810c1c555b685cb51f780b41e37892d6cc92b89789f2847e1
     # via
