@@ -129,7 +129,7 @@ django-ses==2.0.0 \
 django-uuslug==1.2.0 \
     --hash=sha256:bf0872618acc61f7ace65b96ae71d63f347595c8b990942834f1ba9448af19ec
     # via -r requirements/prod.in
-django==3.1.12 \
+django==4.2.20 \
     --hash=sha256:a523d62b7ab2908f551dabc32b99017a86aa7784e32b761708e52be3dce6d35d \
     --hash=sha256:dc41bf07357f1f4810c1c555b685cb51f780b41e37892d6cc92b89789f2847e1
     # via
@@ -150,7 +150,7 @@ idna==2.10 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0
     # via requests
-jinja2==3.0.1 \
+jinja2==3.1.6 \
     --hash=sha256:1f06f2da51e7b56b8f238affdd6b4e2c61e39598a378cc49345bc1bd42a978a4 \
     --hash=sha256:703f484b47a6af502e743c9122595cc812b0271f661722403114f71a79d0f5a4
     # via django-jinja
